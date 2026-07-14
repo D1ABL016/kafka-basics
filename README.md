@@ -1,2 +1,2 @@
 # kafka-basics
-this i s a basic md file
+this is a basic md file
